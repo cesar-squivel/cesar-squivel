@@ -1,5 +1,5 @@
 # Hola a todos Soy Cesar Esquivel Ingenierio de IA 👋
-
+![https://github.com/cesar-squivel/](https://github.com/cesar-squivel/cesar-squivel/blob/main/Cesar%20Banner.png)
 <h2>🔭 Trabajo actualmente en vision por computadora y aprendizaje profundo </h2>
 
 <h3>🌱 pero estoy aprendiendo visualizacion de datos y mucho mas sobre Generative AI</h3>
